@@ -8,4 +8,4 @@ The CSS file was provided as part of the assignment, I tried to stick to more HT
 
 ## Example screenshot of the deployed app and a link. 
 https://thecoaxial.github.io/HW-5-Daily-Planner/
-![Screenshot](planner.PNG)
+![Screenshot](planner.png)
